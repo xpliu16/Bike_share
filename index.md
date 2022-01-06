@@ -1,4 +1,4 @@
-## Forecasting hourly demand at  <br /> a bike sharing service
+## Forecasting hourly demand at a bike sharing service
 
 Bike shares provide a convenient way to utilize an environmentally-friendly form of mobility without needing to own or store a bike. In order for bike shares to be effective, bikes need to be made available at the appropriate place and time. One way trips and the cost of transporting bikes make this logistic task both difficult and critical. A first step is to understand demand for bikes. In perusing the data sets available on the UC Irvine Machine Learning Repository (UCI Machine Learning Repository), I came across a [dataset from a Seoul bike share](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand) that recorded bikes rented and weather factors and holidays at hourly resolution for one year. 
 
