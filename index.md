@@ -96,7 +96,7 @@ In the [original paper accompanying this dataset](https://www.tandfonline.com/do
 
 ### Final thoughts
 1.	One of the times with atypically low bike usage relative to prediction was the afternoon of April 15th, 2018. News suggests that Seoul was enshrouded in fine dust and sand blown from China, with a health advisory issued when PM10 exceeded threshold for 2 hours: https://www.upi.com/Top_News/World-News/2018/04/15/Fine-dust-levels-soar-in-South-Korea/5581523776231/
-[But this did not seem to be reflected in the “visibility” feature?]
+
 In places like California and the Pacific Northwest, fluctuating pollution levels (e.g., wild fires) should certainly be included in this type of model, as outdoor physical activity would be discouraged at those times. 
 
 2.	Bike rides may fall into clusters with different behavior, such as recreation versus commuting. We may be able to infer this based on repeated daily travel paths, travel on recreational paths, or based on rush hour versus non-rush hour separation. Leisure biking may be more elastic in response to weather predictors.
